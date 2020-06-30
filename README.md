@@ -2,7 +2,7 @@
 
 # Description: 
 
-When a user clicks on each letter they will be able to change the color of the text in Scratch.
+When a user clicks on each letter, they will be able to change the color of the text in Scratch.
 
 ![Image of LetterColorChanger](https://github.com/al11588/LetterColorChanger/blob/master/Screenshot.png)
 
